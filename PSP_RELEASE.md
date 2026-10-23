@@ -45,3 +45,8 @@ The proprietary game archive is required but is not included in this release.
 Based on [WolfensteinRPG-RE](https://github.com/Erick194/WolfensteinRPG-RE)
 by Erick Vásquez García and the GEC team. Engine source is GPL-3.0. Wolfenstein
 RPG and its original assets belong to their respective rightsholders.
+
+## Verification
+
+`WolfensteinRPG4PSP-v0.1.0-alpha-PSP.zip` SHA-256:
+`4411fd19c4b64d2a2148dafae0bbf588481bbe44c76c41cd1a547835c8efc871`
