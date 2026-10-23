@@ -1,0 +1,27 @@
+.DS_Store
+
+# Local builds and IDE output
+build/
+build-*/
+cmake-build-*/
+.idea/
+.vscode/
+*.o
+*.obj
+*.elf
+*.prx
+*.map
+
+# Packaged binaries and release staging
+EBOOT.PBP
+release/
+
+# Proprietary game data (users must supply their own legally obtained copy)
+*.ipa
+
+# Runtime configuration and save data
+CONFIGFILENAME
+BRIEFPLAYER
+FULLPLAYER
+FWORLD
+SB_*
