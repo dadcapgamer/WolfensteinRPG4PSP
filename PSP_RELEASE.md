@@ -1,6 +1,6 @@
-# Wolfenstein RPG4PSP v1.0.0
+# Wolfenstein RPG4PSP v0.1.0 Alpha
 
-Initial public PSP release of the reverse-engineered Wolfenstein RPG engine.
+First public alpha of the reverse-engineered Wolfenstein RPG engine for PSP.
 
 ## Highlights
 
@@ -18,8 +18,8 @@ Initial public PSP release of the reverse-engineered Wolfenstein RPG engine.
 
 ## Installation
 
-1. Extract `WolfensteinRPG4PSP-v1.0.0.zip`.
-2. Copy the included `WolfensteinRPG` directory to `PSP/GAME/`.
+1. Extract `WolfensteinRPG4PSP-v0.1.0-alpha-PSP.zip`.
+2. Copy the included `PSP` directory to the root of your Memory Stick.
 3. Add your legally obtained iOS archive beside `EBOOT.PBP`, named either
    `WolfensteinRPG.ipa` or `Wolfenstein RPG.ipa`.
 4. Start **Wolfenstein RPG4PSP** from the PSP Game menu.
